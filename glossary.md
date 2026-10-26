@@ -79,3 +79,32 @@
 | 被遗忘权 | Right to be Forgotten | Ch02 | 个人要求从网络上删除其信息以修复网络声誉的权利 |
 | 删除权 | Right to Erasure | Ch02 | GDPR 赋予数据主体要求删除其个人数据的一般性权利 |
 | 美国联邦贸易委员会 | US Federal Trade Commission (FTC) | Ch02 | 美国消费者权益保护机构，2012 年报告倡导行业自律式隐私保护 |
+| 业务数据管家 | Business Data Steward | Ch03 | 对所辖业务数据负责并与相关方共同定义和控制数据的业务专家 |
+| 业务术语表 | Business Glossary | Ch03 | 统一业务术语定义并关联同义词、指标、血缘、规则和责任人等元数据的治理工具 |
+| 集中式运行模式 | Centralized Model | Ch03 | 由一个数据治理组织统一监督所有主题领域治理活动的运行模式 |
+| 首席数据管家 | Chief Data Steward | Ch03 | 可主持数据治理机构或在虚拟、分布式治理组织中代行首席数据官职责的管家角色 |
+| 协调数据管家 | Coordinating Data Steward | Ch03 | 领导并代表业务与技术数据管家团队开展跨团队及高层协调的角色 |
+| 数据治理办公室 | Data Governance Office (DGO) | Ch03 | 持续协调企业级数据定义和各知识领域数据管理标准的治理机构 |
+| 数据治理运行框架 | Data Governance Operating Framework | Ch03 | 规定治理活动结构、职责、协作关系和问题处理路径的整体安排 |
+| 数据治理记分卡 | Data Governance Scorecard | Ch03 | 汇总治理活动与政策遵从指标并向治理决策机构报告的工具 |
+| 数据治理指导委员会 | Data Governance Steering Committee | Ch03 | 数据治理最高决策机构，负责监督、支持并批准治理活动及资金 |
+| 数据治理战略 | Data Governance Strategy | Ch03 | 依据业务战略明确数据治理范围、方法和实施交付物的规划 |
+| 数据问题管理 | Data Issue Management | Ch03 | 识别、量化、分级、升级并解决数据治理相关问题的闭环过程 |
+| 数据管理程序 | Data Management Procedure | Ch03 | 为完成特定数据管理活动而形成书面记录的方法、技术与步骤 |
+| 数据所有者 | Data Owner | Ch03 | 对所辖数据领域的相关决策拥有批准权的业务数据管家 |
+| 数据政策 | Data Policy | Ch03 | 将治理原则和管理意图转化为数据创建、获取、质量、安全及使用等基本规则的指令 |
+| 数据标准 | Data Standard | Ch03 | 经权威批准、用于统一数据要求并衡量一致性与质量的强制性规范 |
+| 数据管护 | Data Stewardship | Ch03 | 为确保数据资产得到有效控制和使用而承担相关责任与问责的职能 |
+| 数据管家团队 | Data Stewardship Team | Ch03 | 围绕特定主题领域或项目协作维护数据定义与管理标准的跨职能团队 |
+| 数据中心型组织 | Data-centric Organization | Ch03 | 将数据视为企业资产并贯穿其全生命周期而非作为应用副产品管理的组织 |
+| 企业数据管家 | Enterprise Data Steward | Ch03 | 跨业务职能监督某一数据领域的企业级数据管家 |
+| 执行数据管家 | Executive Data Steward | Ch03 | 在数据治理委员会中任职并参与治理决策的高级管理人员 |
+| 联邦式运行模式 | Federated Model | Ch03 | 由一个数据治理组织与多个业务单元协作以保持一致定义和标准的运行模式 |
+| IT 治理 | IT Governance | Ch03 | 对 IT 投资、应用组合、项目组合及整体技术架构进行决策并与企业战略对齐的治理职能 |
+| 地方数据治理委员会 | Local Data Governance Committee | Ch03 | 在企业数据治理委员会指导下负责事业部或部门层面治理的机构 |
+| 组织变革管理 | Organizational Change Management (OCM) | Ch03 | 通过领导、沟通、培训与强化等手段推动组织及人员行为持续转变的方法 |
+| 就绪评估 | Readiness Assessment | Ch03 | 从数据管理成熟度、变革能力、协作就绪和业务一致性等方面评估治理实施基础的活动 |
+| 监管合规 | Regulatory Compliance | Ch03 | 识别适用监管要求并建立控制、监测、举证和整改机制以确保遵从的能力 |
+| 复制式运行模式 | Replicated Model | Ch03 | 各业务单元采用相同数据治理运行模式和标准的分布式运行模式 |
+| 职责分离 | Separation of Duties | Ch03 | 将治理监督与管理执行分开以形成相互制约和责任清晰的控制原则 |
+| 技术数据管家 | Technical Data Steward | Ch03 | 在数据集成、数据库、质量或元数据等技术领域承担数据管护职责的 IT 专业人员 |
